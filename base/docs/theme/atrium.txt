@@ -1,0 +1,13 @@
+Atrium Basic Theme
+b1, update by 2022/12/18
+
+黑体序列: 'Noto Sans CJK', 'HarmonyOS Sans SC', 'PingFang SC', 'DengXian', 'MS Gothic'
+宋体序列: 'Source Han Serif SC', 'SimSong', 'SimSun'
+
+背景颜色: rgb(159, 214, 232)
+
+超链接
+一般颜色: rgb(14, 90, 200)
+接触颜色: rgb(20, 68, 177)
+点击时颜色: rgb(204, 44, 102)
+点击后颜色: rgb(53, 110, 166)

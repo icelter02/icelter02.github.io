@@ -3,6 +3,10 @@ body {
     background-color: rgb(159, 214, 232);
 }
 
+.main {
+    margin: 10px;
+}
+
 a:link {
     color: rgb(14, 90, 200)
 }
@@ -11,7 +15,7 @@ a:hover {
     color: rgb(20, 68, 177)
 }
 
-a:focus {
+a:active {
     color: rgb(204, 44, 102)
 }
 

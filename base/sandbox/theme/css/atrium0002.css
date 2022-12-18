@@ -1,0 +1,29 @@
+body {
+    font-family: 'Noto Sans CJK', 'HarmonyOS Sans SC', 'PingFang SC', 'DengXian', 'MS Gothic';
+    background-color: rgb(159, 214, 232);
+}
+
+.main {
+    margin: 10px;
+}
+
+.panel {
+    margin: 10px;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px;
+
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+}
+
+.board {    
+    margin: 3px;
+    border: 1px solid rgb(96, 96, 96);
+    padding: 3px;
+
+    width: 170px;
+    height: 50px;
+
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+}
