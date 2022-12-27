@@ -1,0 +1,34 @@
+body {
+    font-family: 'Noto Sans CJK', 'HarmonyOS Sans SC', 'PingFang SC', 'DengXian', 'MS Gothic';
+    background-color: rgb(159, 214, 232);
+}
+
+a:link {
+    color: rgb(14, 90, 200)
+}
+
+a:hover {
+    color: rgb(20, 68, 177)
+}
+
+a:focus {
+    color: rgb(204, 44, 102)
+}
+
+a:visited {
+    color: rgb(53, 110, 166)
+}
+
+/* Custom Part*/
+.main {
+    margin: 10px;
+}
+
+.panel {
+    margin: 10px;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px;
+
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+}
